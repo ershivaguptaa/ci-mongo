@@ -92,3 +92,7 @@ define('EVENT_PRIORITY_NORMAL', 100);
  * @deprecated Use \CodeIgniter\Events\Events::PRIORITY_HIGH instead.
  */
 define('EVENT_PRIORITY_HIGH', 10);
+
+define('MONGO_DB_DATABASE', 'ci-mongo');
+define('MONGO_DB_USERNAME', 'ci-mongo');
+define('MONGO_DB_PASSWORD', 'ci-mongo');
